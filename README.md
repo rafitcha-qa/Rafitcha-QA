@@ -8,5 +8,5 @@ Este repositório contém exemplos práticos de testes manuais, automatizados (c
 - Testes de API com Postman
 - Simulações com dados reais e bugs comuns
 
-Desenvolvido por [Rafaela Marcionila](https://www.linkedin.com/in/rafaelamarcionila/)
+Desenvolvido por [Rafaela Marcionila](https://www.linkedin.com/in/rafaela-marcionila-799557193/)
 
