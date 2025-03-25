@@ -1,6 +1,15 @@
-# 🧪 QA Testes para Iniciantes
+# Rafitcha-QA
 
-Este repositório contém exemplos práticos de testes manuais e automatizados, voltados para iniciantes na área de QA (Quality Assurance). O objetivo é compartilhar conhecimento e mostrar na prática como validar aplicações web e mobile usando ferramentas como Cypress, Postman, e outras.
+Este repositório foi criado para fornecer exemplos práticos e educativos de testes em QA, tanto manuais quanto automatizados, com foco em aplicações web e APIs. Ele é ideal para iniciantes que estão aprendendo sobre Quality Assurance e desejam ver exemplos de testes reais.
+
+Aqui você encontrará:
+- Testes manuais com casos de uso simples.
+- Testes de API utilizando Postman.
+- Testes automatizados com Cypress.
+- Dicas sobre como testar e depurar aplicações.
+
+Este repositório é um excelente ponto de partida para quem quer aprender mais sobre o mundo de QA.
+
 
 ## 🔧 Ferramentas utilizadas
 - [Cypress](https://www.cypress.io/)
@@ -19,23 +28,3 @@ Experiência com Cielo, Keeggo Technology e outras empresas do setor de pagament
 📧 marcionila.qa@email.com 
 📎 [LinkedIn](https://www.linkedin.com/in/rafaela-marcionila-799557193/)
 
----
-# Rafitcha-QA
-
-Este repositório contém exemplos práticos de testes de QA, tanto manuais, automatizados quanto de API. Abaixo, você pode encontrar a estrutura do projeto:
-
-## Estrutura de Pastas
-
-- **testes-manuais/**: Contém casos de testes manuais e documentações sobre erros comuns.
-- **testes-api/**: Contém coleções de testes de API (Postman).
-- **testes-automatizados/**: Contém testes automatizados com Cypress.
-- **assets/**: Imagens e outros recursos relacionados aos testes.
-
-## Como rodar os testes?
-
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/rafitcha-qa/Rafitcha-QA.git
-    ```
-
-2. Acesse a pasta de testes que deseja rodar e siga as instruções no respectivo arquivo README.
