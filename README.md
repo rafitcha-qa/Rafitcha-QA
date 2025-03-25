@@ -1,6 +1,6 @@
 # Rafitcha-QA
 
-Este repositório foi criado para fornecer exemplos práticos e educativos de testes em QA, tanto manuais quanto automatizados, com foco em aplicações web e APIs. Ele é ideal para iniciantes que estão aprendendo sobre Quality Assurance e desejam ver exemplos de testes reais.
+Este repositório foi criado para fornecer exemplos práticos e educativos de testes em QA, tanto manuais quanto automatizados, testes pessoais e com foco em aplicações web e APIs. Ele é ideal para iniciantes que estão aprendendo sobre Quality Assurance e desejam ver exemplos de testes reais.
 
 Aqui você encontrará:
 - Testes manuais com casos de uso simples.
