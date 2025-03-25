@@ -20,3 +20,22 @@ Experiência com Cielo, Keeggo Technology e outras empresas do setor de pagament
 📎 [LinkedIn](https://www.linkedin.com/in/rafaela-marcionila-799557193/)
 
 ---
+# Rafitcha-QA
+
+Este repositório contém exemplos práticos de testes de QA, tanto manuais, automatizados quanto de API. Abaixo, você pode encontrar a estrutura do projeto:
+
+## Estrutura de Pastas
+
+- **testes-manuais/**: Contém casos de testes manuais e documentações sobre erros comuns.
+- **testes-api/**: Contém coleções de testes de API (Postman).
+- **testes-automatizados/**: Contém testes automatizados com Cypress.
+- **assets/**: Imagens e outros recursos relacionados aos testes.
+
+## Como rodar os testes?
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/rafitcha-qa/Rafitcha-QA.git
+    ```
+
+2. Acesse a pasta de testes que deseja rodar e siga as instruções no respectivo arquivo README.
