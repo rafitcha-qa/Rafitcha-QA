@@ -1,1 +1,22 @@
+Estrutura Básica de Casos de Teste
+
+Normalmente, um caso de teste pode ser dividido nas seguintes colunas:
+ID do Caso de Teste: Um identificador único para o caso de teste
+
+Título: Descrição curta do que o teste está validando
+Pré-condição: O que precisa estar configurado ou o que o usuário precisa fazer antes de rodar o teste.
+
+Passos: Sequência de ações que o testador deve seguir para realizar o teste.
+Resultado Esperado: O que o teste deve validar ou qual deve ser o comportamento esperado.
+Resultado Obtido: O que foi realmente observado após a execução do teste (geralmente preenchido durante a execução).
+Status: Se o teste passou ou falhou.
+
+
+- Passo a Passo para Criar os Casos de Teste
+
+Defina o que será testado: Antes de escrever os casos de teste, é importante entender quais funcionalidades do sistema serão testadas. Pense em ações que os usuários podem realizar ou cenários importantes da aplicação.
+Descreva os passos de forma clara e objetiva: A descrição dos passos deve ser simples e precisa. Um bom teste manual deve ser fácil de ser repetido por outra pessoa que não esteja familiarizada com a aplicação.
+Verifique o resultado esperado: Para cada teste, defina claramente o que deve acontecer ao final da execução. O resultado esperado deve ser mensurável e observável.
+Adicione um campo de status: O campo de status ajudará a saber se o teste passou ou falhou durante a execução. Normalmente, o status pode ser preenchido depois que o teste for realizado.
+Organize e complete a planilha: Agora que você tem todos os dados, é hora de inserir essas informações na planilha casos-de-teste-exemplo.xlsx. Cada linha será um caso de teste, e você pode adicionar novos conforme necessário.
 
